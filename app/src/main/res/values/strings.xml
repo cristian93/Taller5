@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Taller5</string>
+    <string name="item_1">ventana1</string>
+    <string name="item_2">ventana2</string>
+    <string name="item_3">ventana3</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_1">Jhony Deep</string>
+    <string name="text_2">Bogota-Colombia</string>
+    <string name="text_3">527</string>
+    <string name="text_4">Stories</string>
+    <string name="text_5">518</string>
+    <string name="text_6">Followers</string>
+    <string name="text_7">284</string>
+    <string name="text_8">Following</string>
+    <string name="cont_1a">Google maps</string>
+    <string name="cont_11">La solución de Google para los usuarios perdidos. Esta brújula digital permite encontrar direcciones y rutas alternativas.</string>
+
+    <string name="cont_2">Facebook Mobile App</string>
+    <string name="cont_22">44% de la población de smartphones.Sistema operativo: Android, iOS, Windows Phone, Blackberry 10.</string>
+
+    <string name="cont_3">YouTube</string>
+    <string name="cont_33">La plataforma de videos online más grande del mundo disponible para tu móvil,</string>
+
+    <string name="cont_4">Google+ Mobile App</string>
+    <string name="cont_44">GlobalIndexWeb arroja que el mayor motor de búsqueda y su red social posee 290 millones de unidades instaladas </string>
+
+
+    <string name="cont_5">WhatsApp Messenger</string>
+    <string name="cont_55">Uno de los pioneros en el servicio de mensajes entre teléfonos inteligentes. Envía 10,000 millones de mensajes y recibe 17,000 millones, según datos arrojados por la firma.</string>
+
+
+    <string name="cont_6">Instagram</string>
+    <string name="cont_66">Con más de 130 millones de usuarios, el brazo fotográfico de Facebook permite personalizar imágenes con filtros </string>
+
+
+    <string name="str_1">Mike Creative Minst</string>
+    <string name="str_2">UI / UX Designer at KREATIVE</string>
+    <string name="str_3">IOS Game / Making of Game Concept</string>
+    <string name="str_4">Game design, illustration, IOS, Fine arts, digital art</string>
+    <string name="str_5">24k</string>
+    <string name="str_6">73k</string>
+    <string name="str_7">345</string>
+    <string name="str_8">Crear cuenta</string>
+    <string name="str_9">Usuario</string>
+    <string name="str_10">Contraseña</string>
+    <string name="str_11">aceptar</string>
+    <string name="str_12">mostrar opciones</string>
+    <string name="str_13">Opcion 1</string>
+    <string name="str_14">Opcion 3</string>
+    <string name="BIENVENIDO">PANTALLA 3</string>
+    <string name="unou">MI APLICACIÓN</string>
+</resources>
